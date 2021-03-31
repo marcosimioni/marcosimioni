@@ -1,0 +1,44 @@
+body 	{
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  text-align: center;
+  background-color: #FFF;
+  border-top: 3px solid #CCC;
+}
+
+#container	{
+  position: relative;
+  width: 820px;
+  height: 1700px;
+  margin: 30 auto 0 auto;
+  padding: 0 0 0 0;
+}
+
+p	{
+  font-family: times, Times New Roman, times-roman, georgia, serif;
+  color: #444;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  text-align: center;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: -1px;
+}
+
+ul, li 		{
+  font-family: times, Times New Roman, times-roman, georgia, serif;
+  color: #444;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  text-align: center;
+}
+
+#break 			{
+  border-bottom: 1px solid #888;
+  margin: 2em;
+}
+
+a:link			{ color: #006600; text-decoration: none; }
+a:visited		{ color: #006600; text-decoration: none; }
+a:active		{ color: #006600; text-decoration: none; }
+a:hover			{ color: #888; text-decoration: none;}
